@@ -85,10 +85,10 @@ The Minimal Light theme will respect the following variables, if set in your sit
 
   ```yaml
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Ke Wang
+position: Undergraduate Student
+affiliation: University of Minnesota, Twin Cities
+email: KAIwangke@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
