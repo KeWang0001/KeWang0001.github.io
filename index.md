@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Undergraduate student at University of Minnesota, Twin Cities
 
 ## Research Interests
 
