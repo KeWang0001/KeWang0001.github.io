@@ -22,4 +22,4 @@ further machine learning, full stack website and distributed system initiatives.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
