@@ -21,5 +21,6 @@ further machine learning, full stack website and distributed system initiatives.
 - **[Dec. 2021]** Our paper about Constrained Clustering for large datasets is accepted to SIAM/SDM 2023.
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/experience.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
