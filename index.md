@@ -13,7 +13,8 @@ further machine learning, full stack website and distributed system initiatives.
 ## Research Interests
 
 - **Distributed Machine Learning:** 
-- **Spatiotemporal Pattern:** meta-learning, incremental learning, transfer learning
+- **Spatiotemporal Pattern:** 
+- **Graph Analysis:** 
 
 ## News
 
