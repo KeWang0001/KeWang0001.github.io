@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://synspot.clixwebfolio.com/about/"><autocolor>Synspot: Jun 2022 - Now</autocolor></a></li>
-  <li><a href="https://twin-cities.umn.edu/"><autocolor>Vipin Kumar's Data Mining Lab University of Minnesota, Twin Cities Jun 2022 - Dec 2022</autocolor></a></li>
+  <li><a href="https://twin-cities.umn.edu/"><autocolor>Vipin Kumar's Data Mining Lab: Jun 2022 - Dec 2022</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Internship Experience</h4>
