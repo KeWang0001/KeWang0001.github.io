@@ -12,9 +12,9 @@ further R&D in machine learning and distributed system initiatives.
 
 ## Research Interests
 
-- **Distributed Machine Learning:** 
-- **Spatiotemporal Pattern:** 
-- **Graph Analysis:** 
+- **Distributed Machine Learning, Federated Learning** 
+- **Spatiotemporal Pattern** 
+- **Graph Analysis** 
 
 
 
